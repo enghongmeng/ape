@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
