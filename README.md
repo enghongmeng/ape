@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Fix device counting method to account for double-digit device IDs (#8502)
