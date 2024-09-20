@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Update CITATION.cff with cffinit corrections (#8658)
